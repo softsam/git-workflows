@@ -92,9 +92,75 @@
                 
                 <section>
 					<h2>Workflow centralisé</h2>
+                    <p>
+                        <ul>
+                            <li>Chacun clone le repository de référence</li>
+                            <li>Une seule branche requise : master</li>
+                            <li>Tout le monde publie son travail sur master</li>
+                            <li>Fonctionnement proche de SVN</li>
+                        </ul>
+                    </p>
+				</section>
+            
+                <section>
+					<h2>Workflow centralisé</h2>
 					<p>
-						Exemple d'utilisation, avantages, inconvénients, dans quel cas l'utiliser
+						<img src="img/centralized_workflow_principle.png"/>
 					</p>
+				</section>
+            
+                <section>
+					<h2>Workflow centralisé</h2>
+					<p>
+						<img src="img/centralized_workflow_machine.png"/>
+					</p>
+				</section>
+            
+                <section>
+					<h2>Workflow centralisé</h2>
+					<p>
+						<img src="img/centralized_workflow_server.png"/>
+					</p>
+				</section>
+            
+                <section>
+					<h2>Workflow centralisé</h2>
+					<p>
+						<img src="img/pull_rebase_merge.png"/>
+					</p>
+				</section>
+                
+                <section>
+					<h2>Workflow centralisé</h2>
+					<h3>
+						Avantages
+					</h3>
+                    <p>
+                        <ul>
+                            <li>Le plus abordable pour une équipe qui vient de SVN</li>
+                            <li>Intégration continue facile</li>
+                            <li>Merge / résolution de conflits faciles</li>
+                        </ul>
+                    </p>
+				</section>
+            
+                <section>
+					<h2>Workflow centralisé</h2>
+					<h3>
+						Limitations
+					</h3>
+                    <p>
+                        <ul>
+                            <li>Pas pratique pour des grosses équipes</li>
+                            <li>Moins facile de faire des code reviews</li>
+                            <li>Une feature commencée doit être terminée pour la release (1)</li>
+                            <li>N'offre pas le choix d'intégrer ou non une feature (2)</li>
+                        </ul>
+                    </p>
+                    <p>
+                        <small class="fragment">(1) : augmenter la fréquence des release et segmenter les features aide à régler ce problème</small>
+                        <small class="fragment">(2) : les feature toggles peuvent aider à régler ce problème</small>
+                    </p>
 				</section>
                 
                 <section>
@@ -117,6 +183,16 @@
 						Exemple d'utilisation, avantages, inconvénients, dans quel cas l'utiliser
 					</p>
 				</section>
+    
+                <section>
+                    <h2>Lectures supplémentaires</h2>
+                    <p>
+                        <ul>
+                            <li><a href="https://www.atlassian.com/git/tutorials/comparing-workflows/">Tutorial Attlasian sur les workflows</a></li>
+                            <li><a href="http://martinfowler.com/bliki/FeatureToggle.html">Feature toggles</a></li>
+                        </ul>
+                    </p>
+                </section>
 
 			</div>
 

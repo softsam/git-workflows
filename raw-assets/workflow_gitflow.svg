@@ -14,7 +14,7 @@
    viewBox="0 0 744.09448819 1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91pre4 r13712"
    sodipodi:docname="workflow_gitflow.svg">
   <defs
      id="defs4">
@@ -66,14 +66,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="213.61434"
-     inkscape:cy="654.38304"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="486.65782"
+     inkscape:cy="475.42374"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1138"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -114,7 +114,7 @@
            x="-111.42857"
            y="235.21935"
            style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';fill:#ffffff;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';fill:#ffffff;fill-opacity:1"
          id="flowPara4400-3-4-5-8">master</flowPara></flowRoot>    <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.38100004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4189-19-5"
@@ -140,7 +140,7 @@
        xml:space="preserve"
        id="flowRoot4368-8-8-4-8-4-0"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-248.84891,-135.669)"
+       transform="translate(-253.13462,-131.38329)"
        inkscape:export-xdpi="54.90102"
        inkscape:export-ydpi="54.90102"><flowRegion
          id="flowRegion4370-4-6-7-7-8-7"><rect
@@ -150,7 +150,7 @@
            x="-111.42857"
            y="235.21935"
            style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';fill:#ffffff;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';fill:#ffffff;fill-opacity:1"
          id="flowPara4400-3-4-5-8-9">v1.0.0</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4368-8-8-4-8-4-00"
@@ -165,7 +165,7 @@
            x="-111.42857"
            y="235.21935"
            style="fill:#ff6c6c;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';fill:#ff6c6c;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';fill:#ff6c6c;fill-opacity:1"
          id="flowPara4400-3-4-5-8-7">hotfix/title</flowPara></flowRoot>    <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:17.90200043;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4361"
@@ -190,7 +190,7 @@
        xml:space="preserve"
        id="flowRoot4368-8-8-4-8-4-0-1"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-251.24777,72.192457)"
+       transform="translate(-264.10491,76.478172)"
        inkscape:export-xdpi="54.90102"
        inkscape:export-ydpi="54.90102"><flowRegion
          id="flowRegion4370-4-6-7-7-8-7-1"><rect
@@ -200,7 +200,7 @@
            x="-111.42857"
            y="235.21935"
            style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';fill:#ffffff;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';fill:#ffffff;fill-opacity:1"
          id="flowPara4400-3-4-5-8-9-9">v1.0.1</flowPara></flowRoot>    <path
        style="opacity:1;fill:#459dff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.38100004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4189-19-5-1"
@@ -220,7 +220,7 @@
            x="-111.42857"
            y="235.21935"
            style="fill:#00be0e;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';fill:#00be0e;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';fill:#00be0e;fill-opacity:1"
          id="flowPara4400-3-4-5-8-7-0">release/1.1.0</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4368-8-8-4-8-4-00-5"
@@ -235,7 +235,7 @@
            x="-111.42857"
            y="235.21935"
            style="fill:#459dff;fill-opacity:1;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';fill:#459dff;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';fill:#459dff;fill-opacity:1"
          id="flowPara4400-3-4-5-8-7-7">develop</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4368-8-8-4-8-4-00-5-1"
@@ -250,7 +250,7 @@
            x="-111.42857"
            y="235.21935"
            style="fill:#ffe56c;fill-opacity:1;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';fill:#ffe56c;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';fill:#ffe56c;fill-opacity:1"
          id="flowPara4400-3-4-5-8-7-7-4">feature/login</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4368-8-8-4-8-4-00-5-1-1"
@@ -265,7 +265,7 @@
            x="-111.42857"
            y="235.21935"
            style="fill:#ff8c6c;fill-opacity:1;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';fill:#ff8c6c;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';fill:#ff8c6c;fill-opacity:1"
          id="flowPara4400-3-4-5-8-7-7-4-8">feature/logout</flowPara></flowRoot>    <path
        style="opacity:1;fill:#459dff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.38100004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4193-9-3-8-1"
@@ -440,7 +440,7 @@
        xml:space="preserve"
        id="flowRoot4368-8-8-4-8-4-0-1-2"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-261.29701,729.33531)"
+       transform="translate(-262.72559,733.62103)"
        inkscape:export-xdpi="54.90102"
        inkscape:export-ydpi="54.90102"><flowRegion
          id="flowRegion4370-4-6-7-7-8-7-1-1"><rect
@@ -450,7 +450,7 @@
            x="-111.42857"
            y="235.21935"
            style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';fill:#ffffff;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';fill:#ffffff;fill-opacity:1"
          id="flowPara4400-3-4-5-8-9-9-7">v1.1.0</flowPara></flowRoot>    <path
        style="opacity:1;fill:#459dff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.38100004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4189-19-5-1-0-8-6-7"
@@ -466,5 +466,20 @@
        id="path4900"
        d="m 69.404082,894.99371 c 4.070567,0.87015 8.011169,2.1515 11.937658,3.51167 3.2196,1.37212 6.464582,2.70605 9.853991,3.59172 3.342219,0.90525 6.452915,2.42997 9.690419,3.61329 2.99454,0.84731 6.02184,1.64006 8.91715,2.79528 3.02458,0.97348 6.01364,2.02152 8.95288,3.22435 2.76634,1.46221 5.59789,2.77002 8.50007,3.94212 2.82269,1.30254 5.60544,2.6704 8.37726,4.07741 3.09175,1.21336 6.19155,2.40464 9.37228,3.36726 3.13999,0.99106 6.16283,2.29202 9.28423,3.32506 2.57753,1.18852 5.36,1.80809 7.86386,3.15602 2.38339,1.3518 4.84985,2.51133 7.39201,3.53731 2.65947,1.44771 5.56497,2.3875 8.24745,3.76533 1.49676,0.39819 3.3975,2.16652 4.8874,1.65221 0,0 -13.53033,4.3309 -13.53033,4.3309 l 0,0 c -1.69676,-0.63347 -3.29927,-1.51569 -4.96425,-2.22717 -2.74338,-1.22704 -5.49742,-2.42773 -8.22237,-3.698 -2.52848,-1.10317 -4.99943,-2.29901 -7.42457,-3.6138 -2.55627,-1.12628 -5.24189,-1.91506 -7.81683,-2.99847 -3.05826,-1.14845 -6.11353,-2.28734 -9.22305,-3.29559 -3.20355,-1.06398 -6.38776,-2.18829 -9.47549,-3.5591 -2.775,-1.32986 -5.45631,-2.84373 -8.31305,-4.00091 -2.88312,-1.2319 -5.71324,-2.56516 -8.53763,-3.92444 -2.92692,-1.20206 -5.952384,-2.13841 -8.940124,-3.17651 -2.942148,-0.99913 -5.91408,-1.89151 -8.876604,-2.82191 -3.183532,-1.26299 -6.343306,-2.59443 -9.657591,-3.492 -3.360444,-1.01697 -6.597044,-2.37426 -9.853553,-3.67934 -3.934281,-1.3738 -7.934531,-2.49156 -11.999893,-3.41075 0,0 13.558677,-3.99194 13.558677,-3.99194 z"
        inkscape:connector-curvature="0" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4368-8-8-4-8-4-00-2-7-9"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00be0e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(15.493548,378.72745)"
+       inkscape:export-xdpi="54.90102"
+       inkscape:export-ydpi="54.90102"><flowRegion
+         id="flowRegion4370-4-6-7-7-8-8-2-9-2"><rect
+           id="rect4372-2-7-6-81-2-5-4-8-94"
+           width="472.85712"
+           height="32.857113"
+           x="-111.42857"
+           y="235.21935"
+           style="fill:#00be0e;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';fill:#00be0e;fill-opacity:1"
+         id="flowPara4400-3-4-5-8-7-0-0-1">bug fix</flowPara></flowRoot>  </g>
 </svg>
